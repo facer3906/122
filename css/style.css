@@ -1,0 +1,43 @@
+html,
+body,
+header,
+#intro {
+    height: 95%;
+}
+
+#intro {
+    background: url("/img/background.png")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+#intro1 {
+  height: 95%;
+}
+
+#intro1 {
+  background: url("/img/wushi2.png")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+#intro2 {
+  height: 95%;
+}
+
+#intro2 {
+  background: url("/img/sekiro3.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+  -moz-background-size: cover;    /* 针对Firefox浏览器 */
+  -o-background-size: cover;      /* 针对Operallq */
+  background-size: cover;         /* 通用 */
+}
+.top-nav-collapse {
+  background-color: #36a4d6;
+}
+.buttonstyle{
+  position: absolute;
+  left: 1000px auto;
+}
